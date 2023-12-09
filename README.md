@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rakib👨🏻‍💻</h1>
-<img src="./images/cover/RakibGithubCover.gif"/>
+<a href="https://www.linkedin.com/in/-md-rakib-hassan-"><img src="./images/cover/RakibGithubCover.gif"/></a>
 <p>I'm a passionate junior MERN stack web developer with a knack for turning ideas into interactive and user-friendly digital experiences.
 
 💻 As a MERN (MongoDB, Express.js, React.js, Node.js) stack enthusiast, I thrive on creating dynamic and responsive web applications. From designing user interfaces to implementing robust backend functionalities, I am committed to delivering seamless and engaging digital experiences.
