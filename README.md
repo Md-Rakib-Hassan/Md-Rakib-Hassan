@@ -1,56 +1,64 @@
-<h1 align="left">Hi 👋, I'm Rakib👨🏻‍💻</h1>
-<a href="https://www.linkedin.com/in/-md-rakib-hassan-"><img src="./images/cover/RakibGithubCover.gif"/></a>
-<p>I'm a passionate junior MERN stack web developer with a knack for turning ideas into interactive and user-friendly digital experiences.
+<h1 align="left">Hi 👋, I'm Rakib 👨🏻‍💻</h1>
 
-💻 As a MERN (MongoDB, Express.js, React.js, Node.js) stack enthusiast, I thrive on creating dynamic and responsive web applications. From designing user interfaces to implementing robust backend functionalities, I am committed to delivering seamless and engaging digital experiences.
+<a href="https://www.linkedin.com/in/-md-rakib-hassan-">
+  <img src="./images/cover/RakibGithubCover.gif" alt="Rakib's GitHub Cover" />
+</a>
 
-🎓 I hold a solid foundation in computer science and constantly stay updated with the latest trends and technologies in the rapidly evolving tech landscape. This allows me to bring fresh and cutting-edge solutions to the projects I undertake.
+---
 
-📚 Currently on the exciting journey of honing my skills and expanding my knowledge base, I am open to new challenges and collaborative opportunities that allow me to contribute to innovative projects.
+### 👨‍💻 About Me
 
-🌟 Let's collaborate and craft something extraordinary! Feel free to reach out for all your web development needs.
-</p>
+I'm a passionate **junior MERN stack web developer** dedicated to transforming ideas into user-friendly and engaging digital experiences.
 
+- 💻 Specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), I enjoy building dynamic and responsive web applications, from intuitive user interfaces to robust backend systems.
+- 🎓 With a strong foundation in **computer science**, I stay up-to-date with the latest technologies, allowing me to bring fresh, cutting-edge solutions to my projects.
+- 📚 Currently, I’m on a journey to enhance my skills and explore collaborative opportunities to contribute to innovative and impactful projects.
 
-## :chart_with_upwards_trend: Current Stats
+🌟 **Let's collaborate** to craft extraordinary digital experiences! Feel free to connect for any web development needs.
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Md-Rakib-Hassan&theme=icegray&hide_border=true&background=45%2CFEF9F3%2CFFEDDA&fire=EB470A&ring=FFC7A1" />
-</p>
+---
 
-
-
-## :mailbox: Reach me out
-
-<br />
+## 📊 Current Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/-md-rakib-hassan-"><img height="60" src="./images/icons/Linkedin.png"/></a>
-<a href="https://x.com/Rakibhassan4591"><img height="60" src="./images/icons/Twitter.png"/></a>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Md-Rakib-Hassan&theme=icegray&hide_border=true&background=45%2CFEF9F3%2CFFEDDA&fire=EB470A&ring=FFC7A1" alt="Rakib's GitHub Stats" />
 </p>
 
-<br />
+---
 
-## :computer: Technologies that I know
+## 📬 Let's Connect
 
-<br>
 <p align="center">
-<img src="./images/icons/JavaScript.png"/>
-<img src="./images/icons/python.png"/>
-<img src="./images/icons/cpp.png"/>
-<img src="./images/icons/c.png"/>
+  <a href="https://www.linkedin.com/in/-md-rakib-hassan-">
+    <img height="60" src="./images/icons/Linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Rakibhassan4591">
+    <img height="60" src="./images/icons/Twitter.png" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+## 💻 Technologies I Know
+
+<p align="center">
+  <img src="./images/icons/JavaScript.png" alt="JavaScript" height="60px" />
+  <img src="./images/icons/typescript.png" alt="TypeScript" height="60px " style="border-radius: 10px;" />
+  <img src="./images/icons/python.png" alt="Python" height="60px" />
+  <img src="./images/icons/cpp.png" alt="C++" height="60px" />
+  <img src="./images/icons/c.png" alt="C" height="60px" />
 </p>
 <p align="center">
-<img src="./images/icons/HTML.png"/>
-<img src="./images/icons/css.png"/>
-<img src="./images/icons/react.png"/>
-<img src="./images/icons/tailwind.png"/>
-<img src="./images/icons/firebase.png"/>
-
+  <img src="./images/icons/HTML.png" alt="HTML" height="60px" />
+  <img src="./images/icons/css.png" alt="CSS" height="60px" />
+  <img src="./images/icons/react.png" alt="React.js" height="60px" />
+  <img src="./images/icons/nextjs.png" alt="Mongoose" height="60px" style="border-radius: 10px; " />
+  <img src="./images/icons/tailwind.png" alt="Tailwind CSS" height="60px" />
+  <img src="./images/icons/firebase.png" alt="Firebase" height="60px" />
 </p>
 <p align="center">
-<img src="./images/icons/node.png"/>
-<img src="./images/icons/express.png"/>
-<img src="./images/icons/mongo.png"/>
-</p><br/>
+  <img src="./images/icons/node.png" alt="Node.js" height="60px" />
+  <img src="./images/icons/express.png" alt="Express.js" height="60px" />
+  <img src="./images/icons/mongo.png" alt="MongoDB" height="60px" />
+  <img src="./images/icons/mongoose.png" alt="Mongoose" height="60px" style="background-color: #161c27; border-radius: 10px; " />
+</p>
